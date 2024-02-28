@@ -1,2 +1,10 @@
 # Portfolio_CS255
-Portfolio for CS 255 - SNHU
+The DriverPass project aimed to design a comprehensive driver education platform to address the limitations of existing resources in adequately preparing students for driving tests. The client, DriverPass, wanted a system that would provide online practice exams and practical on-the-road training to enhance students' chances of passing their driving tests successfully.
+
+One part of our work that we did particularly well was our approach to system modeling. We created various UML diagrams, including use case diagrams, activity diagrams, sequence diagrams, and class diagrams, to represent the system's functionality, interactions, and data structure effectively.
+
+If I could choose one part of our work to revise, I would focus on refining the nonfunctional requirements section of the business requirements document. I would ensure that each requirement is clearly defined, measurable, and aligned with the client's objectives. Additionally, I would provide more detailed explanations and justifications for each requirement to enhance clarity and understanding.
+
+Interpreting the user's needs and implementing them into our system design was crucial to ensuring the system's success. We conducted thorough interviews and discussions with the client to understand their requirements, preferences, and pain points. We also considered feedback from potential end-users to incorporate features and functionalities that would meet their needs and preferences. Considering the user's needs is important because it ensures that the system is user-friendly, intuitive, and meets the users' expectations, ultimately leading to higher user satisfaction and adoption rates.
+
+When approaching software design, I prioritize understanding the client's requirements, conducting thorough analysis and planning, and following a systematic approach to system modeling and development. In the future, I would continue to use techniques such as requirements gathering, stakeholder engagement, prototyping, and iterative development to analyze and design systems effectively. Additionally, I would focus on incorporating user feedback, testing early and often, and refining the design based on feedback and insights gained throughout the development process.
